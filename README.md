@@ -1,3 +1,7 @@
+## 📌 Acknowledgement
+This project is based on an assignment provided by DataRoars.
+The dataset and problem statement belong to DataRoars and are used here for learning purposes.
+
 # Power-BI Financial Report-
 # 📊 Power BI Sales Dashboard (G2N Analysis)
 
