@@ -143,11 +143,11 @@ DIVIDE(
 
 ---
 
-## 📌 Author
 
-* Shrestha mohan negi
 
----
+
+
+
 
 
 
